@@ -2,7 +2,9 @@
 
 Framework: Laravel 8.83.27
 
-PHP version: 7.2
+PHP version: 7.4
+
+Демо-сайт: http://gallya0a.beget.tech/
 
 ## About
 
